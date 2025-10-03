@@ -10,4 +10,8 @@
     <Folder Include="Data\Models\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HolidayMS.Core\HolidayMS.Core.csproj" />
+  </ItemGroup>
+
 </Project>
